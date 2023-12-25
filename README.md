@@ -4,7 +4,7 @@
 - 안드로이드 개발
 - Jetpack Compose
 
-#### 본계정 Gael-Android
+#### 본계정 kwakkun2002
 [Kwakkun2002](https://github.com/kwakkun2002)
 
 
