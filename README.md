@@ -1,16 +1,32 @@
-### Hi there 👋
+### Gael-Android
 
-<!--
-**Gael-Android/Gael-Android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 유어슈
+- 안드로이드 개발
+- Jetpack Compose
 
-Here are some ideas to get you started:
+#### 본계정 Gael-Android
+[Kwakkun2002](https://github.com/kwakkun2002)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ 기술스택
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/> 
+
+💪🏼 도구들
+
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
+
+
+🐱 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwakkun2002@gmail.com)](kwakkun2002@gmail.com)
+
+
+🏅 백준
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakkun2002)](https://solved.ac/kwakkun2002/)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
