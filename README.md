@@ -19,14 +19,12 @@
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwakkun2002@gmail.com)](kwakkun2002@gmail.com)
 
 
 🏅 백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakkun2002)](https://solved.ac/kwakkun2002/)  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gael-Android&layout=compact)](https://github.com/Gael-Android/github-readme-stats)
 
 
